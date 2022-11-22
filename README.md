@@ -36,7 +36,7 @@ python main.py
 ## Result
 
 <p align="middle">
-<img src="data/task2/result.png" alt="Spiking neural actity of recurrent network "  width="503" height="403">
+<img src="data/task2/result.png" alt="Spiking neural actity of recurrent network "   height="403">
 </p>
 
 All simulations run on Ubuntu 16.04 LTS with Intel(R) Xeon(R) CPU E5-2687W v3 @ 3.10GHz, 128Gb RAM @ 2133MHz, and two GeForce GTX TITAN X (GM200) GPUs. Python 3.6 is used in all cases. Clock time was recorded for each simulation run. 
