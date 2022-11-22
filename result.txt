@@ -1,0 +1,183 @@
+=== The available CUDA GPU will be used for computations.
+=== Loading cue evidence accumulation dataset...
+Training set length: 2000
+Test set length: 100
+=== Model ===
+SRNN (40 -> 100 -> 2) 
+
+=== Starting model training with 2 epochs:
+
+	 Epoch 1...
+		 Score on training set (while training): 42/100 (42.0%), loss: 14.595491409301758
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.993405342102051
+Task on 2  :
+		 Score on test set                     : 4/25 (16.0%), loss: 3.7870984077453613
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.8682570457458496
+Task on 4  :
+		 Score on test set                     : 8/25 (32.0%), loss: 3.5836048126220703
+		 Score on training set (while training): 100/200 (50.0%), loss: 27.953929901123047
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.758066415786743
+Task on 2  :
+		 Score on test set                     : 16/25 (64.0%), loss: 3.3763699531555176
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.7737205028533936
+Task on 4  :
+		 Score on test set                     : 10/25 (40.0%), loss: 3.5276763439178467
+		 Score on training set (while training): 192/300 (64.0%), loss: 39.89442443847656
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.5783395767211914
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.9716720581054688
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.6871938705444336
+Task on 4  :
+		 Score on test set                     : 12/25 (48.0%), loss: 3.475074529647827
+		 Score on training set (while training): 292/400 (73.0%), loss: 50.455047607421875
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.304625988006592
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.5705363750457764
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.532428503036499
+Task on 4  :
+		 Score on test set                     : 12/25 (48.0%), loss: 3.4498891830444336
+		 Score on training set (while training): 392/500 (78.4%), loss: 59.46225357055664
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 1.892615556716919
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.1420187950134277
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 2.2006869316101074
+Task on 4  :
+		 Score on test set                     : 7/25 (28.000000000000004%), loss: 3.6104214191436768
+		 Score on training set (while training): 492/600 (82.0%), loss: 66.7786636352539
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 1.4560002088546753
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 1.635994553565979
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 1.8227883577346802
+Task on 4  :
+		 Score on test set                     : 5/25 (20.0%), loss: 3.850491762161255
+		 Score on training set (while training): 592/700 (84.57142857142857%), loss: 71.94721221923828
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.9329426884651184
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 1.144853115081787
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 1.268975853919983
+Task on 4  :
+		 Score on test set                     : 2/25 (8.0%), loss: 4.51292610168457
+		 Score on training set (while training): 692/800 (86.5%), loss: 74.98273468017578
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.51337730884552
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.6461195945739746
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.7522184252738953
+Task on 4  :
+		 Score on test set                     : 0/25 (0.0%), loss: 5.949979305267334
+		 Score on training set (while training): 792/900 (88.0%), loss: 76.56316375732422
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.28270092606544495
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.2713235914707184
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.45128133893013
+Task on 4  :
+		 Score on test set                     : 0/25 (0.0%), loss: 8.258918762207031
+		 Score on training set (while training): 892/1000 (89.2%), loss: 77.23794555664062
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.1531391441822052
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.11464463919401169
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.2803388833999634
+Task on 4  :
+		 Score on test set                     : 0/25 (0.0%), loss: 10.99418830871582
+		 Score on training set (while training): 992/1100 (90.18181818181819%), loss: 77.96649932861328
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.06874298304319382
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.07624632120132446
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.16270479559898376
+Task on 4  :
+		 Score on test set                     : 0/25 (0.0%), loss: 14.266167640686035
+		 Score on training set (while training): 1092/1200 (91.0%), loss: 78.32227325439453
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.03347199037671089
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.07539882510900497
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.09501582384109497
+Task on 4  :
+		 Score on test set                     : 0/25 (0.0%), loss: 17.022905349731445
+		 Score on training set (while training): 1192/1300 (91.6923076923077%), loss: 78.55970764160156
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.016727030277252197
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.07327106595039368
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.05600150302052498
+Task on 4  :
+		 Score on test set                     : 0/25 (0.0%), loss: 18.88417625427246
+		 Score on training set (while training): 1292/1400 (92.28571428571428%), loss: 78.69303894042969
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.009970179758965969
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.07492566108703613
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.040785372257232666
+Task on 4  :
+		 Score on test set                     : 0/25 (0.0%), loss: 20.73984146118164
+		 Score on training set (while training): 1392/1500 (92.80000000000001%), loss: 78.79361724853516
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.005334863439202309
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.07420986890792847
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.0294899120926857
+Task on 4  :
+		 Score on test set                     : 0/25 (0.0%), loss: 22.507375717163086
+		 Score on training set (while training): 1407/1600 (87.9375%), loss: 136.1806182861328
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.039647094905376434
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.0576198436319828
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.11912176758050919
+Task on 4  :
+		 Score on test set                     : 24/25 (96.0%), loss: 1.8598564863204956
+		 Score on training set (while training): 1507/1700 (88.6470588235294%), loss: 138.6548309326172
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.06514869630336761
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.025366226211190224
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.1922096610069275
+Task on 4  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.0629437118768692
+		 Score on training set (while training): 1607/1800 (89.27777777777777%), loss: 138.7710418701172
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.0768137127161026
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.015833448618650436
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.21470271050930023
+Task on 4  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.01823597587645054
+		 Score on training set (while training): 1707/1900 (89.84210526315789%), loss: 138.84481811523438
+Task on 1  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.07349980622529984
+Task on 2  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.01275833509862423
+Task on 3  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.23444996774196625
+Task on 4  :
+		 Score on test set                     : 25/25 (100.0%), loss: 0.014848077669739723
+		 Score on training set (while training): 1807/2000 (90.35%), loss: 138.90579223632812
+		 Score on test set                     : 99/400 (24.75%), loss: 2.125051975250244
