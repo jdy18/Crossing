@@ -30,7 +30,7 @@ python main.py
 ## Environment
 
 <p align="middle">
-<img src="environment/result.png" alt="Mouse experience setting "  width="503" height="403">
+<img src="environment/mouse.png" alt="Mouse experience setting "  width="503" >
 </p>
 
 ## Result
