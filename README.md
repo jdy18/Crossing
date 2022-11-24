@@ -51,5 +51,5 @@ All simulations run on Ubuntu 16.04 LTS with Intel(R) Xeon(R) CPU E5-2687W v3 @ 
 - 马国庆 (学号：202218020428003 [email](zgmaguoqing@163.com) )
 - 张予涵 (学号：202218014628014 [email](3289360744@qq.com))
 - 江德扬 (学号：202218020428001 [email](jiangdeyang2022@ia.ac.cn))
-- 魏雅轩（学号：202218020415011 [email](weiyaxuan0714@163.com)）
+- 魏雅轩 (学号：202218020415011 [email](weiyaxuan0714@163.com))
 - 林楚儿 (学号：202218020428002 [email](linchuer22@mails.ucas.ac.cn)）
