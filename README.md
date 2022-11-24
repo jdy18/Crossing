@@ -40,7 +40,7 @@ python main.py
 
 
 <p align="middle">
-<img src="result/Train_accuracy.png" alt="Activation of each neuron when 5~1000 samples have been trained"   height="403">
+<img src="result/Train_loss.png" alt="Activation of each neuron when 5~1000 samples have been trained"   height="403">
 </p>
 
 <p align="middle">
